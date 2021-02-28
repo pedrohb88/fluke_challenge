@@ -24,7 +24,7 @@ const theme = {
 };
 
 const App = () => {
-  const [index, setIndex] = useState(1);
+  const [index, setIndex] = useState(0);
 
   const [routes] = useState([
     {key: 'history', title: 'Histórico', icon: 'history'},
