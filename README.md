@@ -22,7 +22,7 @@ npm run android
 👤 **Pedro Leal**
 
 * Github: [@pedrohb88](https://github.com/pedrohb88)
-* LinkedIn: [@https:\/\/www.linkedin.com\/in\/leal-pedro\/](https://linkedin.com/in/https:\/\/www.linkedin.com\/in\/leal-pedro\/)
+* LinkedIn: [linkedin.com\/in\/leal-pedro\/](https://linkedin.com/in/leal-pedro\/)
 
 ## Show your support
 
