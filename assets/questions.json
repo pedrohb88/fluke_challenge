@@ -1,0 +1,210 @@
+[
+    {
+        "category": "Fluke, telefonia e rede",
+        "questions": [
+            {
+                "question": "O que é a Fluke?",
+                "answer": "Uma nova experiência em conexão, totalmente digital.\n\nNós somos a Fluke, uma empresa de tecnologia que trabalha para mostrar que existe uma nova - e melhor! - maneira de se fazer telefonia móvel no Brasil.\n\nNós não somos uma operadora tradicional - nascemos justamente para dar voz aos clientes. Através do nosso app, queremos que nossos usuários tenham autonomia e controle de verdade. Além de entender o quanto consomem e poder contratar apenas o que realmente precisam, sem planos que não fazem sentido e sem ficar preso a contratos de fidelidade."
+            },
+            {
+                "question": "Quais são os canais de atendimento ao cliente da Fluke?",
+                "answer": "Aqui na Fluke, entregar a melhor experiência é o que nos move. Então, se precisar de qualquer ajuda pode nos chamar pelo chat do app, pelo whatsapp (11) 93618-0000, pelo e-mail sos@flukeoperadora.com.br ou pelo chat em nosso aplicativo. Nosso atendimento é direto e descomplicado :)\n\nO nosso Time Salva-Vidas presta atendimento via canais digitais (não temos telemarketing) e está online para te ajudar das 9h às 21h!"
+            },
+            {
+                "question": "Em quais regiões a Fluke já está disponível?",
+                "answer": "Apesar de nossa cobertura ser nacional (onde você for com o nosso chip, ele irá funcionar), por enquanto, nós podemos entregar nossos chips apenas localidades com os seguintes DDDs:\n\nSP do DDD 11 ao 19 (todo o estado)\n\nGO, DDDs 62 e 64 (todo o estado)\n\nDF, DDD 61 (todo o estado)\n\nRJ, DDDs 21, 22 e 24 (todo o estado)\n\nMG, DDDs 31, 32, 33 e 34\n\nPR, DDDs 41, 42, 43 e 44"
+            },
+            {
+                "question": "Como eu viro um cliente Fluke?",
+                "answer": "Caso sua região esteja disponível para receber nossos chips, é só baixar nosso aplicativo, clicar em “quero ser fluke” e pedir seu chip. Durante o pedido, você vai cadastrar seus dados e escolher seu primeiro pacote.\n\nQuando o chip chegar, basta seguir as instruções do aplicativo para ativá-lo e se libertar dos padrões atuais da telefonia.\n\nAtenção: clientes da Fluke devem ser pessoas físicas com CPF válido."
+            },
+            {
+                "question": "Como eu sei quando a Fluke estará disponível no meu DDD?",
+                "answer": "Assim que nós estivermos disponíveis na sua região, você será avisado através do e-mail que cadastrou no site. Mas, se quiser nos ajudar a chegar mais rápido aí, é só compartilhar a gente pelo WhatsApp com a sua família e os seus amigos. Quanto mais pessoas inscritas tiver de uma região, mais rápido estaremos disponíveis lá!"
+            },
+            {
+                "question": "Como são a cobertura e as antenas da Fluke?",
+                "answer": "A Fluke tem cobertura em todo o território nacional e já estamos trabalhando para que, no futuro, nosso chip funcione em outros países.\n\nNós alugamos as mesmas antenas usadas pela Vivo, que já existem em todo o Brasil."
+            },
+            {
+                "question": "É possível contratar a Fluke em loja física?",
+                "answer": "Não. Para que você não precise perder tempo, os nossos pacotes são contratados diretamente pelo aplicativo. Mas, caso você precise de ajuda, é só nos chamar através do chat do app, e-mail sos@flukeoperadora.com.br ou pelo whatsapp (11) 93618-0000 que estamos online para ajudar!"
+            },
+            {
+                "question": "Como é o processo para manter meu número atual (portabilidade)?",
+                "answer": "Durante a ativação do seu chip, você pode escolher entre pedir portabilidade ou receber um número novo. Se você optar por um número novo e mais para frente quiser fazer portabilidade, você pode fazer esta solicitação a qualquer momento pelo nosso aplicativo.\n\nAssim que você pede a portabilidade, a Fluke já solicita o seu número para a operadora atual. Se o pedido de portabilidade for feito durante a ativação do seu chip, nós te daremos um número provisório para você usar enquanto o processo ocorre.\n\nO chip da operadora antiga funcionará com o seu número até ele ser cedido. Nem precisa se preocupar que, quando a portabilidade estiver finalizada, nós vamos te avisar. Assim, seu número vem pro chip Fluke, o chip antigo perde o sinal e você já pode jogá-lo fora.\n\nOu seja, você não fica sem número durante o processo, que demora 5 dias úteis aproximadamente.\n\nÉ importante ressaltar que você precisa ser o titular da linha na operadora antiga e que o número precisa estar ativo (não pode estar bloqueado por contas pendentes ou muito tempo sem crédito, por exemplo).\n\nCaso você não seja o titular, é só nos chamar no chat do aplicativo que te ajudamos!"
+            },
+            {
+                "question": "Como funciona o cancelamento? Há taxas?",
+                "answer": "Nós não temos nenhuma taxa de cancelamento. Queremos que você tenha facilidade ao escolher o serviço que faz mais sentido para você!\n\nO cancelamento pode ser feito no próprio aplicativo. Ao escolher cancelar sua conta, você perderá seus pacotes disponíveis e também o número. Então, caso queira fazer a portabilidade para fora da Fluke, é necessário que faça antes de cancelar a conta :)"
+            },
+            {
+                "question": "Perdi meu celular ou ele foi furtado, o que eu devo fazer?",
+                "answer": "Caso você não esteja mais com o seu celular por motivos de perda ou roubo, entre em contato conosco através do e-mail sos@flukeoperadora.com.br ou pelo whatsapp (11) 93618-0000 (através de outro celular), que iremos te auxiliar!"
+            },
+            {
+                "question": "Qual o tamanho do chip da Fluke?",
+                "answer": "O chip da Fluke pode ser usado nas versões mini-SIM (25mm x 15mm x 0.76 mm), micro-SIM (15mm x 12mm x 0.76 mm) ou nano-SIM (12,3mm x 8,8mm x 0.67mm) de acordo com o seu aparelho telefônico."
+            },
+            {
+                "question": "A Fluke possui e-sim?",
+                "answer": "Ainda não, nossos chips são físicos. Mas já estamos trabalhando para disponibilizar essa opção no futuro"
+            }
+        ]
+    },
+    {
+        "category": "Pedido do chip e ativação",
+        "questions": [
+            {
+                "question": "Como peço meu chip Fluke?",
+                "answer": "Se já estivermos distribuindo chips na sua região, basta baixar nosso aplicativo no seu celular. Para pedir seu chip, você precisará cadastrar suas informações pessoais, endereço, escolher seu primeiro plano e já efetuar o pagamento deste. Não precisa se preocupar que ele só passa a valer depois que o seu chip chegar e você ativá-lo. Além disso, não há nenhuma cobrança pelo chip ou pelo envio ;)"
+            },
+            {
+                "question": "Quanto custa um chip da Fluke?",
+                "answer": "O envio do chip em si é gratuito, é um presente nosso!\n\nQuando você efetuar o pedido do seu chip, será necessário o pagamento do primeiro plano escolhido, que só começará a valer quando seu chip chegar e você ativá-lo :)"
+            },
+            {
+                "question": "Qual o prazo de entrega do chip?",
+                "answer": "Como o chip é enviado através do nosso parceiro de entregas, o prazo normal é de até sete dias úteis. Mas, caso você não receba neste prazo, basta entrar em contato conosco pelo chat do aplicativo, pelo e-mail sos@flukeoperadora.com.br ou pelo whatsapp (11) 93618-0000 que iremos te ajudar!"
+            },
+            {
+                "question": "Como obtenho o rastreio do meu chip?",
+                "answer": "Ao pedir o chip pelo nosso aplicativo, você poderá, por lá mesmo, acompanhar o status dele. A gente vai te mostrar quando ele sair para entrega e, se tivermos qualquer problema para entregá-lo pra você, vamos enviar uma notificação e um e-mail para que possamos conversar e enviá-lo novamente ;)"
+            },
+            {
+                "question": "Meu chip não chegou no prazo, o que eu faço?",
+                "answer": "Caso o seu chip não tenha chegado ainda, basta entrar em contato conosco pelo chat do aplicativo, pelo e-mail e-mail sos@flukeoperadora.com.br ou pelo whatsapp (11) 93618-0000 que iremos te auxiliar!"
+            },
+            {
+                "question": "Meu chip chegou. Como eu ativo a minha linha?",
+                "answer": "Você precisará ter o chip em mãos, mas inseri-lo no aparelho é a última etapa.\n\nPara ativar sua linha basta acessar nosso aplicativo, entrar com o seu login e senha já cadastrados, clicar em chegou e seguir o passo a passo dado no próprio aplicativo!"
+            },
+            {
+                "question": "Quando posso pedir portabilidade (para manter meu número atual)?",
+                "answer": "Durante a ativação do seu chip, você pode escolher entre pedir portabilidade ou receber um número novo. Se você optar por um número novo e mais para frente quiser fazer portabilidade, você pode fazer esta solicitação a qualquer momento pelo nosso aplicativo.\n\nA portabilidade acontece em cerca de 5 dias úteis. Enquanto isso, o chip antigo continua funcionando e, se a solicitação for feita no momento da ativação do seu chip Fluke, te daremos um número provisório para já ir utilizando os nossos serviços :)\n\nQuando a portabilidade for concluída e seu número atual vir pro chip Fluke, te avisaremos por e-mail e pelo próprio app. Aí você já pode se desfazer do chip antigo ;)\n\nTambém é importante lembrar que você não perderá seu pacote quando o processo de portabilidade terminar."
+            },
+            {
+                "question": "Posso ter um número novo para usar definitivamente ou só para testar antes da portabilidade?",
+                "answer": "Siim! Você pode escolher usar um número novo! Para isso, durante a ativação, basta escolher que você quer ganhar um número novo. Depois disso, você pode escolher entre manter esse número novo definitivamente com você ou pedir portabilidade a qualquer momento pelo nosso aplicativo :)"
+            },
+            {
+                "question": "Como faço para descobrir o meu novo número?",
+                "answer": "Para visualizar o seu novo número, o seu chip precisa estar ativado e inserido no celular. Assim, basta acessar nosso aplicativo, ir em perfil no menu inferior que o seu número aparecerá embaixo da sua foto."
+            },
+            {
+                "question": "É preciso realizar alguma configuração no celular após ativar o meu chip?",
+                "answer": "Só é necessário realizar a seguinte configuração caso os seus dados móveis não estejam funcionando. Para realizar ligações e enviar SMS, não é necessária nenhuma configuração adicional.\n\nPara configurar seus dados móveis, procure nas configurações do seu celular por \"Redes Móveis\" ou \"Rede Móvel\" e selecione essa opção.\n\nSelecione \"Pontos de Acesso\" ou \"Nomes dos pontos de acesso\". Caso não apareça procure por \"Avançado\", deve estar lá.\n\nAgora procure por \"Adicionar ponto de acesso\" ou \"+\" e faça as seguintes alterações:\n\nEm \"Nome\" escreva: \"Fluke\"\n\nEm \"APN\" escreva: \"Fluke.br\"\n\nEm \"Tipo de APN\": \"default\"\n\nFeito isso é só ligar os seus dados móveis novamente."
+            },
+            {
+                "question": "Como faço ligações locais e interurbanas? Qual o código de ligação da Fluke?",
+                "answer": "A Fluke, diferente de outras operadoras, não tem prefixo para ligações, então para efetuar chamadas use o seguinte formato:\n\nligações locais: 0 + número\n\nligações interurbanas: 0 + DDD + número\n\nou você pode usar o formato do WhastApp, +55 + DDD + número, que também funciona."
+            },
+            {
+                "question": "Há diferença de tarifa entre ligações interurbanas e locais?",
+                "answer": "Não. Afinal, minuto é minuto em qualquer lugar.\n\nNão cobramos a mais quando você está em outro estado ou cidade, nem para ligações interestaduais ou interurbanas. Ligar para outras operadoras também desconta da mesma forma do seu pacote dos minutos."
+            }
+        ]
+    },
+    {
+        "category": "Pacotes e preços",
+        "questions": [
+            {
+                "question": "Quais são os pacotes disponíveis e preços?",
+                "answer": "Existem duas modalidades de pacotes: o pronto e o personalizado.\n\nO personalizado é ideal para quem tem um consumo menor e irregular ao longo dos meses.\n\nO pacote pronto é ideal para quem quer estar sempre conectado e tem um consumo maior e mais constante mês a mês.\n\nNo tipo pronto, existem 4 pacotes dentre os quais você pode escolher:\n\n1. 5GB + ligações ilimitadas + 50 SMS por R$49,99\n\n2. 10GB + ligações ilimitadas + 50 SMS por R$69,99\n\n3. 20GB + ligações ilimitadas + 50 SMS por R$119,99\n\n4. 30GB + ligações ilimitadas + 50 SMS por R$159,99\n\nEles têm validade de 30 dias a partir da contratação e, após os 30 dias, o que sobrou do pacote é expirado.\n\nJá no pacote personalizado, as possibilidades são infinitas porque você monta do seu jeito. Você decide o quanto quer contratar de gigas, minutos e SMS, sendo: R$9,98 por um giga, R$3,00 por 30 minutos de ligações e R$1,00 por 10 SMS.\n\nNo pacote personalizado é cobrada uma taxa de assinatura, no valor de R$2,00 semanais ou R$8,00 por mês. Ela é obrigatória e é o que garante que o que você ainda não usou não vai expirar, mesmo depois de 30 dias!"
+            },
+            {
+                "question": "Quais são as diferenças, além do preço, entre os pacotes?",
+                "answer": "A validade: o que sobrou do seu pacote pronto expira ao fim de 30 dias; do pacote personalizado, é acumulado enquanto a taxa de assinatura for paga.\n\nA taxa de assinatura: no personalizado, há a cobrança obrigatória da taxa, que pode ser paga mensal (R$8,00) ou semanal (R$2,00). Já no pronto, não há cobranças de assinatura.\n\nExpiração dos adicionais: nos pacotes prontos, o que foi comprado de adicionais expira junto com a finalização do pacote (30 dias após a contratação do mesmo). Assim, se você comprou 1GB faltando 2 dias para o fim dos 30 dias, o que sobrou desse 1GB também será expirado após esses 2 dias. No pacote personalizado, tudo o que você compra não expira se sua assinatura estiver ativa.\n\nA velocidade da internet: no personalizado, a velocidade de download é ilimitada; já no pacote pronto, a velocidade é de 5 Mbps, o que é uma excelente velocidade para navegação."
+            },
+            {
+                "question": "Como funciona o pacote personalizado?",
+                "answer": "O pacote personalizado é todo seu: você monta da melhor forma pro seu estilo de vida.\n\nÉ ideal para pessoas que têm consumos menores e também irregulares (que variam muito mês a mês).\n\nVocê pode escolher entre renovar seu pacote semanalmente ou mensalmente. Além da quantidade de gigas, minutos e SMS. Você pode escolher o pacote personalizado indo em início -> meu pacote -> ajustar -> montar do meu jeito.\n\nEm cada renovação, seja mensal ou semanal, iremos te cobrar o valor da assinatura adicionada do valor dos gigas, minutos e SMS escolhidos. Automaticamente, nós já iremos depositar o seu pacote no seu saldo disponível.\n\nOs valores são:\n\n- taxa de assinatura: R$2,00 por semana ou R$8,00 por mês;\n- 0,5GB por R$4,99; 30 min por R$3,00 e 10 SMS por R$1,00;"
+            },
+            {
+                "question": "Como funciona o pacote pronto?",
+                "answer": "O pacote pronto é ideal para quem quer estar sempre conectado, tem um consumo maior e mais constante mês a mês.\n\nNo pacote pronto, são 4 pacotes dentre os quais você pode escolher o seu:\n\n- 5GB + ligações ilimitadas + 50 SMS por R$49,99\n- 10GB + ligações ilimitadas + 50 SMS por R$69,99\n- 20GB + ligações ilimitadas + 50 SMS por R$119,99\n- 30GB + ligações ilimitadas + 50 SMS por R$159,99\n\nEles têm validade de 30 dias a partir da contratação e, após os 30 dias, o que sobrou do pacote é expirado.\n\nVocê pode comprar adicionais se precisar, porém eles são expirados junto com o pacote, ok?"
+            },
+            {
+                "question": "Posso mudar entre pacotes?",
+                "answer": "Pode sim, e você não é cobrado nada a mais por isso. Nossa premissa é a liberdade.\n\nVocê pode trocar entre pacotes quando quiser, apenas duas informações são importantes:\n\n- A troca NÃO é imediata, ela ocorre no período da próxima renovação (por exemplo, se seu pacote renova no dia 20 e você solicitou uma troca no dia 06, a troca só será efetuada no dia 20);\n- Ao trocar de plano, nada que restou de um é transferido para o outro. Se você está no pacote personalizado e tem um acúmulo de 2 GB, por exemplo, ao trocar para o pronto, os 2GB expiram."
+            },
+            {
+                "question": "Meus dados móveis, ligações ou SMS acabaram antes da renovação do pacote, como compro adicionais?",
+                "answer": "Só acessar o aplicativo, ir em início -> meu pacote -> comprar mais e escolher a quantidade de gigas e SMS que você quiser.\n\nLembrando que o preço dos adicionais é o mesmo do pacote personalizado (0,5GB por R$4,99; 30 min por R$3,00 e 10 SMS por R$1,00)\n\nCom os pacotes prontos, o que você comprou de adicionais, expira junto com o pacote no fim dos 30 dias a partir da contratação.\n\nPor exemplo, se você comprou um pacote adicional no último dia do seu ciclo e não usou tudo, o que restou expirará no dia seguinte.\n\nJá no pacote personalizado, nada do que você comprou expira, desde que a taxa de assinatura (R$2/semana ou R$8/mês) esteja em dia :)"
+            },
+            {
+                "question": "Não quero um pacote que renove automaticamente, quero comprar sob demanda, como faço isso?",
+                "answer": "É só você acessar início -> meu pacote -> ajustar -> montar do meu jeito e zerar as quantidades de gigas, minutos e SMS.\n\nAssim, vamos te cobrar apenas a taxa de assinatura - mensalmente de R$8,00 ou semanalmente de R$2,00 - dependendo do que você tiver escolhido como período de renovação.\n\nAí, quando precisar de gigas, minutos ou SMS, é só comprar mais indo em início, meu pacote, comprar mais :)\n\nCaso você também não queira mais pagar a taxa de assinatura, você precisará pausar sua conta manualmente. É só abrir o início do app, clicar em perfil -> minha conta -> pausar ou cancelar conta -> pausar minha conta e seguir o passo a passo. Ao pausar sua conta, você perderá os gigas, minutos e SMS que tem disponíveis e também não poderá mais comprar adicionais ou renovar seu pacote :("
+            },
+            {
+                "question": "Quais as formas de pagamento possíveis na Fluke?",
+                "answer": "A gente aceita cartão de crédito (bandeiras Elo, Mastercard, Visa ou Hipercard), onde você não precisa ser o titular da conta, e também pagamento via PayPal.\n\nVocê pode pagar pela sua conta PayPal por meio de um cartão de crédito, débito ou pré-pago vinculado à conta, e até recarregar seu PayPal com boleto (demora até 3 dias úteis para cair)."
+            },
+            {
+                "question": "Como funciona o pagamento via PayPal?",
+                "answer": "O pagamento por PayPal é manual, diferentemente do pagamento direto por cartão de crédito, onde a cada renovação a cobrança é automática. Se você optar pelo PayPal como meio de pagamento principal, no dia da sua renovação você precisará entrar no app e realizar o pagamento manualmente.\n\nÉ só ir em perfil -> forma de pagamento -> PayPal -> pagar renovação.\n\nLembrando que você correrá o risco de perder o que tem acumulado de gigas, minutos e SMS se ainda não pagar até 2 dias após a data da renovação.\n\nMas não precisa se preocupar que vamos sempre te notificar para te lembrar de pagar ;)"
+            },
+            {
+                "question": "Quero mudar a forma de pagamento, como eu faço isso?",
+                "answer": "É só você ir em perfil -> forma de pagamento, e então escolher a forma que deseja: PayPal ou cartão de crédito cadastrado, lembrando que você não precisa ser o titular da conta."
+            },
+            {
+                "question": "Como são feitas as cobranças?",
+                "answer": "Nosso modelo é pré-pago e nossas renovações são mensais ou semanais, de acordo com o que você escolheu no ajuste do seu pacote.\n\nCom a forma de pagamento principal sendo o cartão de crédito, semanal ou mensalmente - dependendo do seu plano, cobraremos automaticamente a renovação do pacote pro próximo ciclo no seu cartão de crédito.\n\nSempre enviamos uma notificação no seu celular antes de renová-lo, por isso, fique de olho caso queira alterar alguma coisa.\n\nCom a forma de pagamento principal sendo o PayPal, o pagamento deve ser manual - ainda não conseguimos cobrar automaticamente.\n\nPor isso, você deve ficar de olho nas nossas notificações para entrar no aplicativo e pagar manualmente a renovação para o próximo ciclo (mensal ou semanal), para que não se desconecte!"
+            }
+        ]
+    },
+    {
+        "category": "Aplicativo",
+        "questions": [
+            {
+                "question": "O que é o Fluke App?",
+                "answer": "O Fluke App é o aplicativo da Fluke. É por lá que você vai pedir e ativar seu chip, comprar seu pacote e acompanhar seu consumo como e quando você quiser, sempre que você precisar. Nele também são feitas todas as alterações de pacote, compra de adicionais, pedido de portabilidade e chat com o time salva-vidas."
+            },
+            {
+                "question": "O aplicativo da Fluke pode ser usado em IPads ou Tablets?",
+                "answer": "Nós já estamos trabalhando para que o nosso aplicativo possa ser instalado em IPads e Tablets. Mas, no momento, ele só pode ser instalado em celulares."
+            },
+            {
+                "question": "Como eu faço para baixar o aplicativo da Fluke?",
+                "answer": "Para baixar o nosso aplicativo basta acessar o Google Play e Apple Store, buscar por Fluke App e fazer o download do aplicativo de forma totalmente gratuita."
+            },
+            {
+                "question": "Como eu faço o cadastro no aplicativo da Fluke?",
+                "answer": "Para se cadastrar no nosso aplicativo basta baixar o Fluke App na Google Play e Apple Store, abrir o aplicativo e clicar em quero ser Fluke. Você será direcionado para a página de cadastro e já poderá se cadastrar para ser um de nossos clientes. Caso você tenha sido convidado por alguém para ser Fluke, na hora hora do cadastro, é importante usar o mesmo e-mail que você recebeu o convite."
+            },
+            {
+                "question": "Como eu acesso a minha conta da Fluke?",
+                "answer": "Para acessar sua conta da Fluke basta abrir o aplicativo, clicar em já sou cliente, preencher os campos e-mail e senha e clicar em entrar. Pronto, você será direcionado para a página inicial do aplicativo."
+            },
+            {
+                "question": "Onde eu vejo o meu consumo de dados móveis?",
+                "answer": "Para ver o seu consumo de dados móveis basta acessar o nosso aplicativo e, no menu inferior, clicar em início e, na parte superior, colocar meus dados. Nós iremos te mostrar um gráfico do seu saldo de dados móveis, no qual terá o quanto você consumiu e o quanto ainda tem disponível."
+            },
+            {
+                "question": "Onde eu vejo o meu saldo de ligações?",
+                "answer": "Para ver o seu saldo de ligações basta acessar o nosso aplicativo, no menu inferior, clicar em início e, na parte superior, colocar meus minutos. Nós iremos te mostrar um gráfico do seu saldo de minutos, no qual terá o quanto você consumiu e o quanto ainda tem disponível."
+            },
+            {
+                "question": "Como eu faço para comprar adicionais de dados móveis, minutos e SMS?",
+                "answer": "Para comprar mais dados móveis, minutos e SMS basta acessar nosso aplicativo, no menu inferior clicar em início, selecionar meu pacote arrastando a tela para cima, clicar em + comprar mais, escolher a quantidade de dados móveis, minutos e SMS que você quiser e comprar :)"
+            },
+            {
+                "question": "Como eu edito os dados do meu cartão de crédito ou adiciono um novo?",
+                "answer": "Para editar os dados do seu cartão de crédito você pode acessar o nosso aplicativo, ir em perfil no menu inferior, acessar forma de pagamento, clicar sobre o cartão que deseja editar e selecionar editar.\n\nVocê terá a opção de cadastrar um novo cartão clicando em + novo cartão ou selecionar um cartão já cadastrado. Caso você queira utilizar um dos cartões cadastrados basta clicar sobre ele e selecionar usar cartão.\n\nAliás, você não consegue excluir o cartão atual de pagamento, apenas alterá-lo. Você precisa ter algum tipo de pagamento disponível :)"
+            },
+            {
+                "question": "Como eu faço para alterar minha senha?",
+                "answer": "Para alterar sua senha você pode acessar o nosso aplicativo, ir em perfil, acessar minha conta e clicar em alterar senha.\n\nCaso você tenha esquecido sua senha, ao logar no aplicativo, clicando em já sou cliente, aparecerá a opção esqueci minha senha. Basta clicar nela e seguir o passo-a-passo para cadastrar uma nova senha."
+            },
+            {
+                "question": "Ocorreu um erro com o meu aplicativo, o que eu faço?",
+                "answer": "Caso você tenha percebido algum erro no seu app, basta chacoalhar o celular que a tela precisa de ajuda aparecerá. Lá você poderá informar qual erro ocorreu que o nosso Time Salva-Vidas irá entrar em contato para te ajudar a resolver."
+            },
+            {
+                "question": "Como eu entro em contato com o Time de Atendimento da Fluke pelo aplicativo?",
+                "answer": "Caso você precise de ajuda do nosso Time Salva-Vidas basta acessar seu perfil, no menu inferior, ir em ajuda e clicar em novo chat, nós estaremos online para te ajudar com o que você precisar."
+            }
+        ]
+    }
+]
