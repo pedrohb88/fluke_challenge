@@ -81,15 +81,13 @@ const Consumption = () => {
   const [consumptionData, setConsumptionData] = useState(null);
   const [loading, setLoading] = useState(true);
   const [show, setShow] = useState('data');
-  const [modalVisible, setModalVisible] = useState(true);
+  const [modalVisible, setModalVisible] = useState(false);
 
   const [toBuy, setToBuy] = useState({data: 0, minutes: 0});
   const [loadingBuy, setLoadingBuy] = useState(false);
 
   const buyAdditional = async () => {
     setLoadingBuy(true);
-
-    console.log(toBuy);
 
     const response = await fetch(
       'https://flukenator.herokuapp.com/usage/topupPurchase',
@@ -103,8 +101,6 @@ const Consumption = () => {
         body: JSON.stringify(toBuy),
       },
     );
-
-    console.log(response);
 
     setLoadingBuy(false);
 
