@@ -24,7 +24,7 @@ O código do exercício 2 pode ser encontrado na pasta [desafio_2](https://githu
 Para executá-lo basta rodar o comando: 
 
 ```sh
-npm run numericCircle --radius [raio do círculo]
+npm run numericCircle --radius [raio = número entre 1 e 100]
 ```
 
 ## Author
