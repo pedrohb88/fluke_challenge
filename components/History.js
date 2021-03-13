@@ -16,6 +16,9 @@ import {FlatList} from 'react-native-gesture-handler';
 
 import DateTimePicker from '@react-native-community/datetimepicker';
 
+import UserContext from '../contexts/UserContext';
+import {useContext} from 'react/cjs/react.development';
+
 const AppTitle = styled.Text`
   font-size: 20px;
   color: white;
@@ -51,13 +54,15 @@ const HistoryItem = ({item, onPress}) => {
       <View style={styles.listItemView}>
         <View>
           <View style={styles.listItemLine}>
-            <Text style={styles.listItemTitle}>Consumo de voz</Text>
-            <Text style={styles.listItemText}>{item.voice} segs</Text>
+            <Text style={styles.listItemTitle}>Consumo de minutos</Text>
+            <Text style={styles.listItemText}>
+              {(item.voice / 60).toFixed(2)} min
+            </Text>
           </View>
           <View style={styles.listItemLine}>
-            <Text style={styles.listItemTitle}>Consumo de internet</Text>
+            <Text style={styles.listItemTitle}>Consumo de dados</Text>
             <Text style={styles.listItemText}>
-              {item.data / Math.pow(2, 20)} Mb
+              {(item.data / Math.pow(2, 20)).toFixed(2)} Mb
             </Text>
           </View>
         </View>
@@ -84,17 +89,27 @@ const History = () => {
   const [startDate, setStartDate] = useState(new Date(2020, 1, 28));
   const [endDate, setEndDate] = useState(new Date(2020, 7, 21));
 
-  const fetchData = useCallback(async (startDate, endDate) => {
-    const sDate = formatDateToRequest(startDate);
-    const eDate = formatDateToRequest(endDate);
+  const user = useContext(UserContext);
 
-    let response = await fetch(
-      `https://flukenator.herokuapp.com/usage/records/?startDate=${sDate}&endDate=${eDate}`,
-    );
-    response = await response.json();
-    setData(response.reverse());
-    setLoading(false);
-  }, []);
+  const fetchData = useCallback(
+    async (startDate, endDate) => {
+      const sDate = formatDateToRequest(startDate);
+      const eDate = formatDateToRequest(endDate);
+
+      let response = await fetch(
+        `https://flukenator.herokuapp.com/usage/records/?startDate=${sDate}&endDate=${eDate}`,
+        {
+          headers: new Headers({
+            Authorization: user.email,
+          }),
+        },
+      );
+      response = await response.json();
+      setData(response.reverse());
+      setLoading(false);
+    },
+    [user.email],
+  );
 
   useEffect(() => {
     fetchData(new Date(2020, 1, 28), new Date(2020, 7, 21));

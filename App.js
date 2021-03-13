@@ -5,6 +5,8 @@ import {
   Provider as PaperProvider,
 } from 'react-native-paper';
 
+import UserContext from './contexts/UserContext';
+
 import History from './components/History';
 import Consumption from './components/Consumption';
 import Help from './components/Help';
@@ -23,8 +25,12 @@ const theme = {
   },
 };
 
+const user = {
+  email: 'example@placeholder.com',
+};
+
 const App = () => {
-  const [index, setIndex] = useState(0);
+  const [index, setIndex] = useState(1);
 
   const [routes] = useState([
     {key: 'history', title: 'Histórico', icon: 'history'},
@@ -39,13 +45,15 @@ const App = () => {
   });
 
   return (
-    <PaperProvider theme={theme}>
-      <BottomNavigation
-        navigationState={{index, routes}}
-        onIndexChange={setIndex}
-        renderScene={renderScene}
-      />
-    </PaperProvider>
+    <UserContext.Provider value={user}>
+      <PaperProvider theme={theme}>
+        <BottomNavigation
+          navigationState={{index, routes}}
+          onIndexChange={setIndex}
+          renderScene={renderScene}
+        />
+      </PaperProvider>
+    </UserContext.Provider>
   );
 };
 
