@@ -17,6 +17,16 @@ npm install
 npm run android
 ```
 
+## Exercício 2
+
+O código do exercício 2 pode ser encontrado na pasta [desafio_2](https://github.com/pedrohb88/fluke_challenge/tree/main/desafio_2).
+
+Para executá-lo basta rodar o comando: 
+
+```sh
+npm run numericCircle --radius [raio do círculo]
+```
+
 ## Author
 
 👤 **Pedro Leal**
