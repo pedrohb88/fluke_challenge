@@ -26,7 +26,7 @@ npm run android
 O App conta com 3 telas, possuindo as funções de: consultar consumo e pacote contratado, contratar adicionais para o pacote, consultar histórico de consumo e uma seção de principais perguntas e respostas sobre a Fluke. 
 
 ### Consumo e Pacote
-Tela principal do App, apresenta o consumo de dados e de minutos do usuário (em valores absolutos e em porcentagem através de um gráfico), além de todas as informações do pacote atual. A visualização do consumo de dados ou de minutos pode ser alternada utilizando os botões no topo da mesma. 
+Tela principal do App, apresenta o consumo de dados e de minutos do usuário (em valores absolutos e em porcentagem através de um gráfico), além de todas as informações do pacote atual. A visualização do consumo de dados ou de minutos pode ser alternada utilizando os botões no topo da tela. 
 
    <img src="https://lh3.googleusercontent.com/AVYahgsi03Izink4uXDZfydGLIx_aBsOSbW3g3BtbjApg5WHX9npmIRqm99GiA_Y46E17Y9fhSCTp8CIbjNzNIien9mEH_UMYDv44fHbtynH1o6Reo8WTukupSs5i5u_cRdB_MR4wuW0mWiDkHQqJeLLz85cKqGZ2PyhyZozEpq5ihBwPIw3unhNvBIGjlIgcnIapqb-PWbDEqtY6oE8LEycR7Dm60przSIcSwzeGa-gTtW493bSbD3lqTWzhvWap7dsq_9jgR_56XIgNs7Q4X7N0bdl0dyhqSAi5db6wOrDwQ9KiiRBa6cIdV-2eNvog6mCF_IO-mzXmKxei-zVmDLDxmfs2gH8N4pbb9CdKKsYONP-c48876iMSrppy_MI8T2TiDz3Xp25OmPERa0FICnFe-Qm0P2NOwQB1u8Lpz_RTblCOk4NoP79fA6-bBKPc9jW0qJHfZ12jZWE-0UphxH64we7x1gZr3BEukF5lXxN0QaTHHajtuYrJJTGMyjyZMJ4ztnm6WBmAVNs0GKyMnSaEqfkDfpbez-dx_M6K_FobgYVAzEwP-ENo-DN8MGV3ZwhjWTqiqQHgoYbCI_N_uxNcvgaHuRo-tIJ5yAj8o-JhL9Z6S1e1ngmuI4eIhBBHwgbHCjrws1yvcQjw4_EUBU963CLcasfA9FP5DtVBmbisdTuoTD9hM6PgIgYvQgxzhYnghEcNsE_aykNF5h3sgmR=w477-h903-no?authuser=0" alt="Consumo de dados" height="500"/>
 
