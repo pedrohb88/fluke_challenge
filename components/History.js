@@ -1,4 +1,4 @@
-import React, {useEffect, useState, useCallback} from 'react';
+import React, {useEffect, useState, useCallback, useContext} from 'react';
 
 import {Appbar} from 'react-native-paper';
 
@@ -17,7 +17,6 @@ import {FlatList} from 'react-native-gesture-handler';
 import DateTimePicker from '@react-native-community/datetimepicker';
 
 import UserContext from '../contexts/UserContext';
-import {useContext} from 'react/cjs/react.development';
 
 const AppTitle = styled.Text`
   font-size: 20px;

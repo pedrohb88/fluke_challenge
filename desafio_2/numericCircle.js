@@ -25,7 +25,7 @@ function printCircle(radius) {
 let radius = parseInt(process.argv[2], 10);
 
 if (!radius || !(radius >= 1 && radius <= 100)) {
-  console.log('Radio inválido');
+  console.log('Raio inválido');
 } else {
   printCircle(radius);
 }

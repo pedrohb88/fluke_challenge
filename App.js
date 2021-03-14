@@ -26,7 +26,7 @@ const theme = {
 };
 
 const user = {
-  email: 'example@placeholder.com',
+  email: 'example@example.com',
 };
 
 const App = () => {
